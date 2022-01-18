@@ -1,0 +1,43 @@
+[{
+    "id": 1,
+    "title": "Ruma Ortu",
+    "img": "/digitalmint/img/project/rumaortu.png",
+    "url": "https://rumaortu.co.id",
+    "category": "Food and Beverage",
+    "desc": "Semua desain website yang dibuatkan oleh kami akan full responsive yang artinya tampilan website tidak akan rusak jika di buka di hp/ komputer."
+}, {
+    "id": 2,
+    "title": "FSK Unipa Surbaya",
+    "img": "/digitalmint/img/project/fsk.png",
+    "url": "https://fsk.unipasby.ac.id/",
+    "category": "Education",
+    "desc": "Untuk garansi website yang kami buatkan adalah 3 bulan . Setelah 3 bulan jika ingin ada garansi tambahan kami menyiapkan biaya tambahan juga."
+}, {
+    "id": 3,
+    "title": "Aksara Pengetahuan",
+    "img": "/digitalmint/img/project/aksara.png",
+    "url": "https://aksarapengetahuan.org",
+    "category": "Organization",
+    "desc": "Untuk website yang kami buatkan adalah full custom dengan teknologi terbaru."
+}, {
+    "id": 4,
+    "title": "Laser Computer",
+    "img": "/digitalmint/img/project/laser.jpg",
+    "url": "https://lasercomputer.id",
+    "category": "Technology",
+    "desc": "Semua desain website yang dibuatkan oleh kami akan full responsive yang artinya tampilan website tidak akan rusak jika di buka di hp/ komputer."
+}, {
+    "id": 5,
+    "title": "Luxindo",
+    "img": "/digitalmint/img/project/luxindo.png",
+    "url": "https://luxindopritama.id",
+    "category": "Home Living",
+    "desc": "Untuk garansi website yang kami buatkan adalah 3 bulan . Setelah 3 bulan jika ingin ada garansi tambahan kami menyiapkan biaya tambahan juga."
+}, {
+    "id": 6,
+    "title": "Visicom",
+    "img": "/digitalmint/img/project/visicom.png",
+    "url": "https://visicom.co.id",
+    "category": "Education",
+    "desc": "Untuk website yang kami buatkan adalah full custom dengan teknologi terbaru."
+}]
