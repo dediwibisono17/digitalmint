@@ -358,3 +358,14 @@ section {
 .btn-link {
     color: black !important;
 }
+
+.tentang-kami {
+    .image {
+        height: 320px !important;
+        width: 100%;
+        img {
+            object-fit: cover !important;
+        }
+        margin-bottom: 16px;
+    }
+}
