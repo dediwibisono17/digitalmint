@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "title": "Paket Startup",
+    "harga": "3 Juta",
+    "img": "/lasertech/img/tam.png",
+    "list": ["domain .com", "Design maksimal 2x revisi", "Hosting 1 tahun", "SSD Disk Space 500 MB", "Unlimited SSD Disk Space", "Unlimited Database "]
+}, {
+    "id": 2,
+    "title": "Paket Bisnis",
+    "harga": "5 Juta",
+    "img": "/lasertech/img/tam.png",
+    "list": ["domain .com", "Design maksimal 2x revisi", "Hosting 1 tahun", "Unlimited SSD Disk Space", "Unlimited Database "]
+}, {
+    "id": 3,
+    "title": "Paket Corporate",
+    "harga": "10 Juta",
+    "img": "/lasertech/img/tam.png",
+    "list": ["domain .com, co.id", "Design maksimal 2x revisi", "Hosting 1 tahun", "Unlimited SSD Disk Space", "Unlimited Database"]
+}]
