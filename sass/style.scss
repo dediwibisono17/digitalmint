@@ -1,8 +1,9 @@
 $primary:#0f6765;
 $primary-dark: #384089;
-$primary-soft: #A8ADDB;
+$primary-soft: #e7f3f3;
 $max: 767px;
 main {
+    min-height: 100vh;
     overflow-y: hidden;
     font-family: 'Poppins', sans-serif;
 }
@@ -20,6 +21,9 @@ main {
     &-big {
         font-size: 24px;
     }
+    &-large {
+        font-size: 32px;
+    }
     &-bold {
         font-weight: bold;
     }
@@ -33,7 +37,6 @@ main {
 
 section {
     padding: 24px 0;
-    min-height: 65vh;
 }
 
 .top {
@@ -367,5 +370,59 @@ section {
             object-fit: cover !important;
         }
         margin-bottom: 16px;
+    }
+}
+
+.harga {
+    &_list {
+        margin: 16px 0;
+        &--name {
+            margin: 8px 0 16px;
+            // border: 1px solid #eceece;
+            // margin: 0 8px;
+            padding: 16px 8px;
+            cursor: pointer;
+            transition: .2s;
+            &:hover {
+                background-color: $primary-soft;
+            }
+        }
+        ul {
+            li {}
+        }
+    }
+}
+
+.tags {
+    background-color: #ddd;
+    font-size: 12px;
+    padding: 2px 8px;
+    // color: #fafafa;
+    margin: 0 auto 8px;
+    display: inline-block;
+    text-align: center;
+    // font-weight: bold;
+    // text-transform: uppercase;
+    // max-width: 135px;
+}
+
+.faq {
+    position: relative;
+    i {
+        float: right;
+    }
+    li {
+        list-style-type: none;
+        cursor: pointer;
+        padding: 12px 16px;
+        font-size: 14px;
+        // border-bottom: 1px solid rgba(0, 0, 0, .2);
+    }
+    .answer {
+        background-color: $primary-soft;
+        padding: 16px;
+    }
+    .rotate {
+        transform: rotate(-180deg);
     }
 }

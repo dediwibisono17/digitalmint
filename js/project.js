@@ -25,10 +25,12 @@ $.ajax({
                 $("#logo .modal-content").html(`
                     <div class="modal-body">
                         <h3 class="title-purple font-medium text-center">${response[data].title}</h3>
+                        <div class="tags">${response[data].category}</div>
+                        <br>
                         <div>
                             <p class="font-std">${response[data].desc}</p>
                             <a class="font-std" href="${response[data].url}">Link Website</a>
-                        </div>
+                            </div>
                         <button type="button" class="btn btn-light float-right" data-dismiss="modal">Close</button>
                     </div>
                 `);

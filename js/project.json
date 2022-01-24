@@ -4,40 +4,54 @@
     "img": "/digitalmint/img/project/rumaortu.png",
     "url": "https://rumaortu.co.id",
     "category": "Food and Beverage",
-    "desc": "Semua desain website yang dibuatkan oleh kami akan full responsive yang artinya tampilan website tidak akan rusak jika di buka di hp/ komputer."
+    "desc": "Website ini adalah website compay profile yang dibuat untuk bisnis café rumaortu. Website ini memiliki fitur untuk melihat data menu , data visimisi dan dsb . Website ini juga dilengkapi dengan panel admin yang digunakan untuk memanage konten"
 }, {
     "id": 2,
     "title": "FSK Unipa Surbaya",
     "img": "/digitalmint/img/project/fsk.png",
     "url": "https://fsk.unipasby.ac.id/",
     "category": "Education",
-    "desc": "Untuk garansi website yang kami buatkan adalah 3 bulan . Setelah 3 bulan jika ingin ada garansi tambahan kami menyiapkan biaya tambahan juga."
+    "desc": "Website ini adalah website compay profile yang dibuat untuk Fakultas Sains dan Kesehatan universitas PGRI Adi Buana Surabaya. Website ini memiliki fitur untuk melihat data artikel , data visimisi dan dsb . Website ini dibuat dengan responsive. Website ini juga dilengkapi dengan panel admin yang digunakan untuk memanage konten "
 }, {
     "id": 3,
     "title": "Aksara Pengetahuan",
     "img": "/digitalmint/img/project/aksara.png",
     "url": "https://aksarapengetahuan.org",
     "category": "Organization",
-    "desc": "Untuk website yang kami buatkan adalah full custom dengan teknologi terbaru."
+    "desc": "Website ini adalah website compay profile yang dibuat untuk sebuah yayasan bernama Aksara Pengetahuan.Website ini memiliki fitur untuk melihat data artikel , data visimisi dan dsb. Website ini memiliki fitur untuk multi bahasa yaitu bahasa Indonesia dan bahasa inggris. Website ini dibuatdengan responsive. Website ini juga dilengkapi dengan panel admin yangdigunakan untuk memanage konten."
 }, {
     "id": 4,
     "title": "Laser Computer",
     "img": "/digitalmint/img/project/laser.jpg",
     "url": "https://lasercomputer.id",
     "category": "Technology",
-    "desc": "Semua desain website yang dibuatkan oleh kami akan full responsive yang artinya tampilan website tidak akan rusak jika di buka di hp/ komputer."
+    "desc": "Website ini memiliki fitur untuk melihat data produk dan dsb .Website ini dibuat dengan responsive sehingga ketika dibuka di berbagai device tampilannya tidak akan rusak. Website ini juga dilengkapi dengan panel admin yang digunakan untuk memanage konten yang ada didalam website sehingga data yang dimasukkan bisa diubah melalui admin panel ."
 }, {
     "id": 5,
     "title": "Luxindo",
     "img": "/digitalmint/img/project/luxindo.png",
     "url": "https://luxindopritama.id",
     "category": "Home Living",
-    "desc": "Untuk garansi website yang kami buatkan adalah 3 bulan . Setelah 3 bulan jika ingin ada garansi tambahan kami menyiapkan biaya tambahan juga."
+    "desc": "Website Landing page yang menampilkan produk-produk dan profile company. Website static yg tidak menggunakan halaman admin"
 }, {
     "id": 6,
     "title": "Visicom",
     "img": "/digitalmint/img/project/visicom.png",
     "url": "https://visicom.co.id",
     "category": "Education",
-    "desc": "Untuk website yang kami buatkan adalah full custom dengan teknologi terbaru."
+    "desc": "Visicom adalah salah satu company yang bergerak di bidang jasa, sudah banyak client-client yang bergabung dan telah mengembangkan produk-produk menarik. Halaman ini dilengkapi fitur admin dalam pengolahan data"
+}, {
+    "id": 7,
+    "title": "Kemenparekraf",
+    "img": "/digitalmint/img/project/kemenparekraf.png",
+    "url": "https://sejarah.kemenparekraf.go.id",
+    "category": "Government",
+    "desc": "Sejarah Kemenparekraf yang menampilkan sejarah-sejarah berdirinya hingga saat ini. Dan program-program yang dilaksanakan. Website ini bersifat statis"
+},{
+    "id": 8,
+    "title": "PT Approval Techno Mulia",
+    "img": "/digitalmint/img/project/approval.png",
+    "url": "https://approval.co.id",
+    "category": "Constructor",
+    "desc": "Approval Techno Mulia merupakan Company yang bergerak dibidang tambang. Gallery-gallery dan news merupakan fitur dari website ini. Website ini juga dilengkapi fitur admin dalam pengolahan data."
 }]
